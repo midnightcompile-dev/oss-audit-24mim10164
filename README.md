@@ -77,5 +77,4 @@ Through this project, I gained practical experience in:
 **Muskan Jain**  
 Integrated M.Tech in Artificial Intelligence  
 VIT Bhopal University
-Integrated M.Tech in Artificial Intelligence
-VIT Bhopal University
+
